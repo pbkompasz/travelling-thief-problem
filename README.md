@@ -54,7 +54,7 @@ Ertek: 11 suly: 8
 Ertek: 15 suly: 7
 Ertek: 7 suly: 3
 Ertek: 15 suly: 5
-![simulated_annealing_input1](simulated_annealing_input1.png)
+![images/simulated_annealing_input1](simulated_annealing_input1.png)
 Legrovidebb ut hossz test2.txt bemenetre: 1742.1051619310435
 Legertekesebb taska erteke test2.txt bemenetre: 95
 Varosok szama: 24
@@ -72,12 +72,12 @@ Ertek: 6 suly: 0
 Ertek: 10 suly: 0
 Ertek: 3 suly: 1
 Ertek: 10 suly: 1
-![simulated_annealing_input3](simulated_annealing_input2.png)
+![images/simulated_annealing_input3](simulated_annealing_input2.png)
 Legrovidebb ut hossz test2.txt bemenetre: 22867.416860451583
 Legertekesebb taska erteke test2.txt bemenetre: 714
 Varosok szama: 239
 Aruk szama: 573
-![simulated_annealing_input3](simulated_annealing_input3.png)
+![images/simulated_annealing_input3](simulated_annealing_input3.png)
 
 ### Genetikus algoritmus
 
@@ -86,24 +86,24 @@ Legertekesebb taska erteke test1.txt bemenetre: 76
 Kromoszomak szama: 25
 Varosok szama: 9
 Aruk szama: 24
-![evolution_input1](evolution_input1.png)
+![images/evolution_input1](evolution_input1.png)
 
 Legrovidebb ut hossz test1.txt bemenetre: 658.7072315732788
 Legertekesebb taska erteke test1.txt bemenetre: 76
 Kromoszomak szama: 50
 Varosok szama: 9
 Aruk szama: 24
-![evolution_input1_50](evolution_input1_50.png)
+![images/evolution_input1_50](evolution_input1_50.png)
 
 Legrovidebb ut hossz test2.txt bemenetre: 2195.079713545272
 Legertekesebb taska erteke test2.txt bemenetre: 94
 Kromoszomak szama: 25
 Varosok szama: 24
 Aruk szama: 39
-![evolution_input2](evolution_input2.png)
+![images/evolution_input2](evolution_input2.png)
 Legrovidebb ut hossz test2.txt bemenetre: 22867.416860451583
 Legertekesebb taska erteke test2.txt bemenetre: 714
 Kromoszomak szama: 25
 Varosok szama: 239
 Aruk szama: 573
-![evolution_input3](evolution_input3.png)
+![images/evolution_input3](evolution_input3.png)
