@@ -1,3 +1,7 @@
+# Travelling thief problem
+
+## Project assignment for Optimisation Algorithms course
+
 ## A probléma leírása
  
 Az utazo tolvaj problemaja ket problema kombinacioja, az utazo ugynok problemaja es a hatizsak problemaja.
